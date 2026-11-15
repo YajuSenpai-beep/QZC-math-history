@@ -1,0 +1,5 @@
+﻿errata_id,version,lecture,line,severity,status,description,correction
+E-01,v1.0,2021秋季第2讲,L25;L113,S2,noted,欧拉1740年右眼失明，异说并存,页下注说明 1735/1738 异说
+E-02,v1.0,2021秋季第9讲,L75,S2,noted,“整场演讲中”所列内容主要出自第8讲,页下注说明第8、9讲合系
+E-03,v1.0,2022秋季第7讲,L9/L67,S2,noted,Bayes 论文宣读人 Price/Canton 异说,页下注并列一说
+E-04,v1.0,2022春季第5讲,L11,S2,noted,费马生年 1601/1607 异说,页下注并列两说
